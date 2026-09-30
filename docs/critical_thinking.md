@@ -1,6 +1,10 @@
 # Critical Thinking — ICA 06: Drawing with Flutter
 **Student:** Wilder Edwards  
-**Date:** September 26, 2026
+**Date:** September 30, 2026
+
+
+github: 
+
 
 ## Undergraduate: Measure and improve your smile arc
 
